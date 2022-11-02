@@ -1,0 +1,28 @@
+{
+  "name": "md2png",
+  "version": "1.0.0",
+  "description": "md转png图片工具",
+  "keywords": [
+    "md2png",
+    "Cli",
+    "HHH"
+  ],
+  "homepage": "",
+  "bugs": {
+    "url": "https://"
+  },
+  "files": [
+    "bin",
+    "lib"
+  ],
+  "main": "lib/index.js",
+  "bin": "bin/md2png.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HHH",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^9.4.1"
+  }
+}
