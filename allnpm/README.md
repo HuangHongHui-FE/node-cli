@@ -25,8 +25,8 @@
 | **archiver**    |                                                              |                  |
 | metalsmith      | 文件子目录生成                                               |                  |
 | compression     | nodejs文件压缩的中间件                                       |                  |
-| commander       | 命令行参数解析                                                     |                  |
-|                 |                                                              |                  |
+| commander       | 命令行参数解析                                               |                  |
+| say             |                                                              |                  |
 |                 |                                                              |                  |
 |                 |                                                              |                  |
 |                 |                                                              |                  |
