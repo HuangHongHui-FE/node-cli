@@ -22,7 +22,7 @@ if(cluster.isMaster) {
 } else {
 	var app = require('express')();
 	app.all('/*', function(req, res) {
-		for(var i = 0; i < 999999; i++) {}
+		for(var i = 0; i < 999999999999; i++) {}
 		res.send('process ' + process.pid + ' says hello!').end();
 	})
 

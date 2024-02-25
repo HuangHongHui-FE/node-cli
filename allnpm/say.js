@@ -12,7 +12,7 @@ const say = require('say')
 // say.stop()
 
 // More complex example (with an OS X voice) and slow speed
-say.speak("我是你爹", 'Alex', 0.5)
+say.speak("I am your father", 'Alex', 0.5)
 
 // Fire a callback once the text has completed being spoken
 // say.speak("What's up, dog?", 'Good News', 1.0, (err) => {
